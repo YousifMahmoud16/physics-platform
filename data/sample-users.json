@@ -1,0 +1,9 @@
+[
+  {
+    "name": "طالب تجريبي",
+    "email": "student@physics.local",
+    "password": "123456",
+    "className": "المرحلة الإعدادية",
+    "createdAt": "2026-04-01"
+  }
+]
